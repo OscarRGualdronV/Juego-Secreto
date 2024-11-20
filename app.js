@@ -75,3 +75,7 @@ let reiniciarJuego = () => {
 }
 
 condicionesIniciales();
+
+const saludar = () => {
+    console.log('Hola');
+}
